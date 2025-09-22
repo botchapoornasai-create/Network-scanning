@@ -16,6 +16,7 @@ The output i got shows there are 4 machines are up in my network 192.168.0.0/24
 The IP address are 192.168.0.1-which is the router and some other machines are 192.168.0.114 (my machine), 192.168.0.118,192.168.0.137.
 All the open ports and services are saved in nmapcan.txt [nmapscan.txt](https://github.com/user-attachments/files/22459482/nmapscan.txt)
 <img width="1920" height="1080" alt="Screenshot From 2025-09-22 11-56-20" src="https://github.com/user-attachments/assets/ec87ae08-4ba8-42d1-be50-bc84c0035762" />
+Common services running in my result are SSH,HTTP,DNS.
 
 #wireshark
 
