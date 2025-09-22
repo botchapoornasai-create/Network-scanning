@@ -17,3 +17,10 @@ The IP address are 192.168.0.1-which is the router and some other machines are 1
 All the open ports and services are saved in nmapcan.txt [nmapscan.txt](https://github.com/user-attachments/files/22459482/nmapscan.txt)
 <img width="1920" height="1080" alt="Screenshot From 2025-09-22 11-56-20" src="https://github.com/user-attachments/assets/ec87ae08-4ba8-42d1-be50-bc84c0035762" />
 
+#wireshark
+
+DEF- wireshark is a free open source network protocol analyzers which captures the traffic flowing from your network interface card.
+Here we are seeing the traffic generated from our nmap scan.
+All the traffic generated from our scan is visible in image.
+<img width="1920" height="1080" alt="Screenshot From 2025-09-22 18-21-08" src="https://github.com/user-attachments/assets/b6dfbad0-d245-446b-ad77-e536342f1aa3" />
+
