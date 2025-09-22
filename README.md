@@ -24,3 +24,5 @@ Here we are seeing the traffic generated from our nmap scan.
 All the traffic generated from our scan is visible in image.
 <img width="1920" height="1080" alt="Screenshot From 2025-09-22 18-21-08" src="https://github.com/user-attachments/assets/b6dfbad0-d245-446b-ad77-e536342f1aa3" />
 
+We can also see a particular packets individual layers data information from the bottom left tab in the wireshark.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d382327-58b9-4902-afc9-c705a7d8ba4f" />
