@@ -22,6 +22,10 @@ Common services running in my result are SSH,HTTP,DNS.
 
 DEF- wireshark is a free open source network protocol analyzers which captures the traffic flowing from your network interface card.
 Here we are seeing the traffic generated from our nmap scan.
+
+Once you opend the wireshark you can see the interface with all the adapter of your machine and the one with network traffic.
+<img width="1919" height="1044" alt="Screenshot From 2025-09-26 14-50-43" src="https://github.com/user-attachments/assets/e9734eb7-ec2c-4ca3-b587-fe4bce2aabce" />
+
 All the traffic generated from our scan is visible in image.
 <img width="1920" height="1080" alt="Screenshot From 2025-09-22 18-21-08" src="https://github.com/user-attachments/assets/b6dfbad0-d245-446b-ad77-e536342f1aa3" />
 
